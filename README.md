@@ -56,13 +56,14 @@ Este projeto ajuda a desenvolver os seguintes conceitos:
     Organização de algoritmo.
 
 🚀 Como executar
+
 Pré-requisitos
 
 Para executar este projeto, é recomendado usar uma ferramenta como:
 
-    Portugol Studio
+ Portugol Studio
 
-    Visualg
+Visualg
 
 Passos
 
@@ -73,7 +74,9 @@ Passos
     Execute o algoritmo.
 
     Digite as informações solicitadas pelo sistema.
+
 Clonando com Git:
+
 git clone https://github.com/samayajoyce/sistema-caixa-mercado.git
 
 Exemplo de funcionamento:
@@ -111,13 +114,13 @@ Troco: 22.30
 
 🛠️ Tecnologias e ferramentas
 
-    Portugol / Portugol Studio
+Portugol / Portugol Studio
 
-    Git
+Git
 
-    GitHub
+GitHub
 
-    Markdown para documentação
+  
 
 📂 Estrutura sugerida do repositório:
 sistema-caixa-mercado/
@@ -129,39 +132,36 @@ sistema-caixa-mercado/
 
 Ideias para evoluir o projeto:
 
-    Adicionar menu inicial.
+Adicionar menu inicial.
 
-    Validar entradas inválidas.
+Validar entradas inválidas.
 
-    Permitir cadastrar vários produtos em sequência.
+Permitir cadastrar vários produtos em sequência.
 
-    Mostrar a quantidade total de itens comprados.
+Mostrar a quantidade total de itens comprados.
 
-    Gerar um cupom simples em texto.
+Gerar um cupom simples em texto.
 
-    Criar uma versão futura em Java.
+Criar uma versão futura em Java.
 
 📚 Aprendizados
 
 Durante o desenvolvimento deste projeto, é possível praticar:
 
-    Raciocínio lógico.
+Raciocínio lógico.
 
-    Organização de código.
+ Organização de código.
 
-    Resolução de problemas do mundo real com programação.
+Resolução de problemas do mundo real com programação.
 
-    Estruturação de projetos para portfólio.
+Estruturação de projetos para portfólio.
 
 👨‍💻 Autor
+Nome: Samaya joyce
 
-Coloque aqui suas informações:
+GitHub: samayajoyce
 
-    Nome: Samaya joyce
-
-    GitHub: samayajoyce
-
-    LinkedIn: www.linkedin.com/in/samaya-joyce
+LinkedIn: www.linkedin.com/in/samaya-joyce
 
 📄 Licença
 
