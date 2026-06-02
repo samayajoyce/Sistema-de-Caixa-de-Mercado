@@ -78,19 +78,37 @@ git clone https://github.com/samayajoyce/sistema-caixa-mercado.git
 
 Exemplo de funcionamento:
 Digite o nome do produto: Arroz
+
+
 Digite o preço do produto: 25.50
+
+
 Digite a quantidade: 2
 
+
+
 Digite o nome do produto: Feijão
+
 Digite o preço do produto: 8.90
+
+
 Digite a quantidade: 3
 
 Resumo da compra:
+
+
 Subtotal: 77.70
+
+
 Desconto: 0.00
+
 Total final: 77.70
+
 Valor pago: 100.00
+
 Troco: 22.30
+
+
 🛠️ Tecnologias e ferramentas
 
     Portugol / Portugol Studio
